@@ -1,6 +1,8 @@
 from tkinter import *
 from backend import Database
 
+
+
 db = Database("recipe.db")
 
 class Window(object):
@@ -169,6 +171,7 @@ class Window(object):
         if error == "name":
             self.errorTextVar.set("Please enter a name")
 
+            
 window = Tk()
 Window(window)
 window.mainloop()
