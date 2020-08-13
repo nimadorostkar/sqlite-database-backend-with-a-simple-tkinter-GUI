@@ -1,5 +1,5 @@
 # sqlite-database-backend-with-a-simple-tkinter-GUI
-sqlite database backend with a simple tkinter GUI
+
 
 # What It Is
 Recipe app with CRUD functions on a sqlite database backend with a simple tkinter GUI.
